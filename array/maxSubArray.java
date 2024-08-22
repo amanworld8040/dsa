@@ -6,7 +6,7 @@ public class maxSubArray {
     }
 
 
-    public static int maxArray(int nums[]){
+    public static int maxArray(int [] nums){
         int curMax=Integer.MIN_VALUE;
         int maxAdd=0;
 
